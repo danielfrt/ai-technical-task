@@ -121,6 +121,22 @@ python topic_modeling.py
    - NLTK for text processing
    - Pinecone integration for metadata updates
 
+## Challenges and Solutions
+
+1. **Pinecone Integration**:
+
+   - Challenge: New technology for me
+   - Solution: Reading the article, information from ChatGPT
+
+2. **Document Processing**:
+
+   - Challenge: Efficient chunking
+   - Solution: Implementing an overlap algorithm to improve context
+
+3. **Theme modelling**:
+   - Problem: Quality of topic extraction
+   - Solution: Using LDA with text preprocessing. reserch with ChatGPT
+
 ## Future Improvements
 
 1. Add tests
