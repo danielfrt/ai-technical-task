@@ -40,3 +40,6 @@ temp/
 .env.local
 .env.*.local
 config.local.js
+
+
+pnpm-lock.yaml
